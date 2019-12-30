@@ -24,3 +24,5 @@ SUM
 COUNT
 GROUP BY
 WHERE
+
+![Employees_Entity Relationship Diagram (UML Notation)](https://user-images.githubusercontent.com/49255104/71582575-76a04300-2ad0-11ea-9b5f-ca82204f332b.png)
